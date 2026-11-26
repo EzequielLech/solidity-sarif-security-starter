@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "chainguard-firewall": {
+      "url": "https://chainguard-studio-production.up.railway.app/mcp"
+    }
+  }
+}
