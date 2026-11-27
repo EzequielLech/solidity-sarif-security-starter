@@ -2,7 +2,7 @@
 
 [![ChainGuard Security Gate](https://github.com/EzequielLech/solidity-sarif-security-starter/actions/workflows/security.yml/badge.svg)](https://github.com/EzequielLech/solidity-sarif-security-starter/actions/workflows/security.yml)
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-ChainGuard%20Web3%20%26%20MCP%20Security%20Gate-10b981.svg)](https://github.com/marketplace/actions/chainguard-web3-mcp-security-gate)
-[![Audit Status](https://chainguard-studio-production.up.railway.app/api/v1/badge/aud_8786523d58a5.svg)](https://chainguard-studio-production.up.railway.app/certificate/aud_8786523d58a5)
+[![ChainGuard Security](https://chainguard-studio-production.up.railway.app/api/v1/repo-badge/EzequielLech/solidity-sarif-security-starter.svg)](https://chainguard-studio-production.up.railway.app/audit-github/EzequielLech/solidity-sarif-security-starter)
 [![MCP: 2025-06-18](https://img.shields.io/badge/MCP-Pre--Wired%20IDE%20Firewall-38bdf8.svg)](https://chainguard-studio-production.up.railway.app/mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
