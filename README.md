@@ -18,7 +18,7 @@ Every push and pull request automatically scans Solidity smart contracts, deploy
 |---|---|
 | [`src/TreasuryVault.sol`](src/TreasuryVault.sol) | Reference Solidity 0.8.24 vault implementing Checks-Effects-Interactions, custom errors, and `nonReentrant` guards |
 | [`foundry.toml`](foundry.toml) | Ready-to-build Foundry configuration (`solc 0.8.24`, optimizer enabled) |
-| [`.github/workflows/security.yml`](.github/workflows/security.yml) | Zero-dependency CI gate running [`EzequielLech/chainguard-mcp@v1.4.1`](https://github.com/marketplace/actions/chainguard-web3-mcp-security-gate) with SARIF 2.1.0 export |
+| [`.github/workflows/security.yml`](.github/workflows/security.yml) | Zero-dependency CI gate running [`EzequielLech/chainguard-mcp@v1.5.0`](https://github.com/marketplace/actions/chainguard-web3-mcp-security-gate) with SARIF 2.1.0 export |
 | [`.mcp.json`](.mcp.json) | Pre-wired remote MCP security server (`/mcp`) for real-time AI IDE code & transaction auditing |
 
 ---

@@ -19,7 +19,7 @@ jobs:
 
       - name: Run ChainGuard Web3 & MCP Security Gate
         id: chainguard
-        uses: EzequielLech/chainguard-mcp@v1.4.1
+        uses: EzequielLech/chainguard-mcp@v1.5.0
         with:
           path: "."
           sarif-file: "chainguard.sarif"
